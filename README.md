@@ -36,7 +36,6 @@ Sample e-commerce application for Android that uses Kotlin programming language.
 |----------|:-------------:|
 | ![s2-category](https://user-images.githubusercontent.com/75504778/211360309-fa20bef7-71e0-46e5-a357-15363c316c32.png) |  ![s6-detailed product](https://user-images.githubusercontent.com/75504778/211362624-4b1b2f96-806c-4691-b5ec-560e4310973f.png) |
 
-> > _A sample product from JSON format;_
->
-> ![img.png](img.png)
+> > _Releases_
+The last version of the app is in https://github.com/AlexZavala1603/Eccomerce-App/releases/latest
 
